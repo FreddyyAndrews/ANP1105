@@ -111,6 +111,8 @@
   - Cilia move mucus and debris out of the lungs.
   - Scattered goblet cells secrete mucus that traps debris.
 
+  - Ciliated means having hair-like structures (cilia) on the surface of the cells that help move substances along the epithelial surface.
+
 - Simple columnar epithelium:
   - Single layer of tall cells with round to oval nuclei.
   - Lines the digestive tract from stomach to rectum, gallbladder, and excretory ducts of some glands.
@@ -687,3 +689,579 @@
 
 ### Intermediate Fibers
 - Fast oxidative glycolytic (FOG) fibers: intermediate diameter; many mitochondria; many capillaries; high myoglobin; red to pink color; aerobic respiration and glycolysis; moderate resistance to fatigue.
+
+
+## Lecture 8: Smooth Muscle
+
+### Locations and Layers
+- Smooth muscle is found in the walls of hollow organs (except the heart): blood vessels, airways, stomach, intestines, bladder, uterus.
+- Present in passageways of the circulatory, respiratory, digestive, and reproductive systems.
+- The heart is the main exception; it contains cardiac muscle.
+- Longitudinal layer: fibers run parallel to the organ’s long axis; contraction shortens the organ.
+- Circular layer: fibers run around the organ; contraction constricts the lumen.
+- The GI tract has an inner circular layer and an outer longitudinal layer. The ureter has the opposite orientation.
+- The stomach has three layers.
+
+### Characteristics
+- Spindle-shaped cells with a single central nucleus; no striations; involuntary.
+- Elongated with tapering ends; ~30–200 µm long and 5–10 µm in diameter.
+- Lacks connective tissue sheaths; endomysium only.
+- Contains varicosities (bulbous swellings) of nerve fibers that release neurotransmitters into wide synaptic clefts called diffuse junctions.
+- Sarcolemma has pouchlike infoldings called caveolae that contain many Ca2+ channels.
+- SR is less developed than in skeletal muscle; no T tubules.
+- Thick and thin filaments are present but not arranged in sarcomeres; no striations.
+- Thick filaments have heads along their entire length.
+- Ratio of thick to thin filaments is much lower (1:13 vs 1:2 in skeletal muscle).
+- Lacks troponin; has tropomyosin but it does not block actin’s myosin-binding sites.
+- Dense bodies instead of Z discs anchor thin filaments; intermediate filaments connect dense bodies to each other.
+
+### Innervation and Organization
+- Autonomic nerve fibers innervate smooth muscle at diffuse junctions; varicosities release neurotransmitters into wide clefts; receptors are scattered over the sarcolemma.
+- Some smooth muscle cells can depolarize and contract without external stimuli (self-excitatory); respond to chemical stimuli (hormones, CO2, pH, oxygen).
+
+- Unitary (visceral) smooth muscle:
+  - In all hollow organs except the heart.
+  - Arranged in opposing (longitudinal and circular) sheets.
+  - Innervated by varicosities; often spontaneous action potentials.
+  - Electrically coupled by gap junctions; contract as a unit (functional syncytium).
+  - Self-excitable: pacemaker cells depolarize spontaneously and set contractile pace.
+  - Two spontaneous depolarizations:
+    - Slow-wave potentials: cyclic depolarizations/repolarizations; may not reach threshold.
+    - Pacemaker potentials: depolarizations that always reach threshold.
+
+- Multiunit smooth muscle:
+  - Located in large airways, large arteries, arrector pili muscles, iris of the eye.
+  - Consists of individual fibers, each with its own motor neuron terminal.
+  - Few gap junctions; not self-excitatory; graded contractions in response to neural stimuli.
+
+### Cytoskeletal Network and Attachments
+- Intermediate filaments form a lattice that transmits tension to the sarcolemma (noncontractile proteins such as desmin and vimentin).
+- Dense bodies: proteins that anchor intermediate filaments to the sarcolemma and in the cytoplasm.
+- Adherence junctions: dense-body-associated junctions that connect adjacent smooth muscle cells.
+- Thick and thin filaments are arranged diagonally, causing corkscrew-shaped contraction.
+- No sarcomeres, no T tubules, and less SR than skeletal muscle.
+- Myosin heads on either face of the thick filament are oriented in opposite directions, allowing contraction even when greatly stretched; thin filaments move in opposite directions on either side during contraction.
+
+### Contraction Mechanism
+- Ca2+ influx from the extracellular space and SR increases cytoplasmic Ca2+.
+- Ca2+ binds calmodulin (CaM) to form a Ca2+–calmodulin complex.
+- The complex activates myosin light chain kinase (MLCK).
+- MLCK phosphorylates myosin light chains in myosin heads, activating myosin ATPase.
+- Activated myosin forms cross-bridges with actin, leading to contraction.
+- Relaxation occurs when Ca2+ is pumped out of the cell and back into the SR; myosin light chain phosphatase (MLCP) dephosphorylates myosin light chains.
+
+### Filament Ratio
+- Thick to thin filament ratio:
+  - Smooth muscle: 1:13
+  - Skeletal muscle: 1:2
+- Smooth muscle has many more thin filaments than thick filaments.
+
+### Regulation of Contraction
+- Neural regulation: graded potentials or action potentials from autonomic nerves; response depends on neurotransmitter and receptor type.
+  - Examples:
+    - Norepinephrine (NE) binding to β-adrenergic receptors causes relaxation.
+    - NE binding to α-adrenergic receptors causes contraction.
+- Hormonal and chemical regulation:
+  - Hormones (e.g., oxytocin) can stimulate contraction.
+  - Local chemical changes (e.g., low pH, high CO2, low O2) can cause relaxation or contraction.
+
+### Latch Bridge Mechanism
+- Allows smooth muscle to maintain tension with low energy expenditure.
+- Myosin heads remain attached to actin for prolonged periods without cycling, sustaining contraction.
+
+## Lecture 9A: Homeostasis
+
+- A limited number of regulated variables of the internal environment are maintained stable via homeostatic mechanisms.
+- Other variables remain within a normal range over time but are not tightly regulated (e.g., heart rate can change to meet body needs, but there are no sensors to hold it at a specific value).
+- Dynamic mechanisms detect and respond to deviations by initiating effector responses that restore variables to desired levels.
+
+### Homeostatic Control Systems
+- Regulated: a sensor exists for this variable.
+- Not regulated: no sensor exists for this variable.
+- Set point: normal value of a regulated variable.
+- Sensor: detects value of regulated variable.
+- Error detector: compares sensor input to set point.
+- Integrating center: determines appropriate response.
+- Effector: carries out the response to restore the variable to the set point.
+
+- Negative feedback: returns values to the set point (e.g., body temperature regulation).
+- Positive feedback: amplifies a response (e.g., blood clotting, childbirth), pushes away from the set point.
+- Feedforward control: anticipates changes and initiates responses in advance (e.g., salivation when smelling food).
+
+## Lecture 9B: Autonomic Nervous System
+
+### Overview
+- The autonomic nervous system consists of motor neurons that:
+  - Innervate smooth muscle, cardiac muscle, and glands.
+  - Make adjustments to ensure optimal support for body activities.
+  - Shunt blood to areas that need it and adjust heart rate, blood pressure, digestive processes, and pupil size.
+  - Operate via subconscious control.
+- Also called the involuntary nervous system.
+- The autonomic nervous system is part of the motor (efferent) division of the PNS that controls involuntary body functions.
+- The somatic and autonomic systems differ in effectors, efferent pathways, and target organ responses to neurotransmitters.
+
+### Somatic vs Autonomic
+- Somatic nervous system:
+  - Controls skeletal muscles.
+  - Cell body in CNS; single, thick, myelinated axon extends to skeletal muscle.
+  - Always excitatory; releases acetylcholine (ACh).
+- Autonomic nervous system:
+  - Uses a two-neuron chain to reach effectors.
+  - Preganglionic neuron: cell body in CNS; thin, lightly myelinated preganglionic axon extends to ganglion; releases ACh.
+  - Postganglionic neuron: cell body in ganglion; unmyelinated postganglionic axon extends to effector; releases ACh or norepinephrine (NE).
+  - Can be excitatory or inhibitory.
+
+### Divisions and Tones
+- Parasympathetic division: promotes maintenance functions; conserves energy (“rest and digest”).
+- Sympathetic division: mobilizes body during activity (“fight or flight”).
+- Dual innervation: most viscera receive both divisions with opposite effects.
+- Parasympathetic tone: dominates heart and smooth muscle of digestive and urinary tracts; slows heart rate; dictates normal activity levels of digestive and urinary systems.
+
+### Unique Roles of Sympathetic Division
+- Adrenal medulla, sweat glands, arrector pili muscles, kidneys, and most blood vessels receive only sympathetic fibers.
+- Thermoregulation: sympathetic fibers drive sweating and arteriole diameter.
+- Renin release: sympathetic fibers stimulate kidneys to release renin (raises blood pressure).
+- Metabolic effects: increases metabolic rate, raises blood glucose, mobilizes fats.
+
+### Localized vs Diffuse Effects
+- Parasympathetic: short-lived, localized control; ACh quickly destroyed by AChE.
+- Sympathetic: longer-lasting, body-wide effects; NE inactivated more slowly; adrenal medulla secretes NE and epinephrine into blood.
+
+### Levels of ANS Control
+1. Hypothalamus: main integrative center; controls heart rate, blood pressure, temperature, water balance, endocrine activity; involved in emotional responses.
+2. Brain stem: controls pupils, heart, blood pressure, airflow, salivation, swallowing, sweating, bladder, and digestion.
+3. Spinal cord: controls defecation and urination.
+
+### Cerebral Cortex and Disorders
+- Cortex can modify ANS subconsciously; limited voluntary control of some visceral activities.
+- Disorders:
+  - Hypertension: overactive sympathetic vasoconstrictor response; treated with adrenergic blockers.
+  - Ulcers: can be caused by an overactive parasympathetic division; decreases blood flow to stomach lining and increases acid secretion.
+
+## Lecture 10: Endocrine System
+
+### Overview and Glands
+- Hormones are chemical messengers secreted into extracellular fluid and transported in blood to regulate target cells at a distance.
+- Two main types of glands:
+  - Endocrine glands: ductless; release hormones into blood.
+  - Exocrine glands: have ducts; secrete onto surfaces or into cavities (e.g., sweat, saliva).
+- Endocrine glands include pituitary, thyroid, parathyroid, adrenal, and pineal glands.
+- The hypothalamus is a major endocrine organ (neuroendocrine).
+
+### Hormone Classes
+1. Amino acid–based hormones: water-soluble; cannot cross plasma membrane; bind surface receptors.
+   - Examples: amines (epinephrine, norepinephrine, thyroid hormone), peptides (ADH, oxytocin), proteins (insulin, growth hormone).
+2. Steroid hormones: lipid-soluble; cross plasma membrane; bind intracellular receptors.
+   - Examples: gonadal (estrogen, testosterone), adrenocortical (cortisol, aldosterone).
+
+### cAMP Signaling Mechanism
+1. Hormone (first messenger) binds receptor.
+2. Receptor activates G protein.
+3. G protein activates adenylate cyclase.
+4. Adenylate cyclase converts ATP to cAMP (second messenger).
+5. cAMP activates protein kinases that phosphorylate proteins → cellular response.
+
+### cAMP Activation of Transcription
+1. cAMP activates protein kinase A (PKA).
+2. PKA enters nucleus and phosphorylates transcription factors.
+3. Phosphorylated factors bind DNA and promote transcription.
+
+### PKC Activation via DAG and Ca2+
+1. Hormone binds receptor → activates G protein.
+2. G protein activates phospholipase C (PLC).
+3. PLC cleaves PIP2 into DAG and IP3.
+4. DAG activates protein kinase C (PKC).
+5. IP3 triggers Ca2+ release from ER; Ca2+ can also activate PKC.
+
+### Mechanism of Lipid-Soluble Hormones
+1. Steroid diffuses through plasma membrane; binds intracellular receptor.
+2. Hormone–receptor complex binds hormone response elements (HREs) on DNA.
+3. Binding initiates transcription to mRNA.
+4. mRNA directs protein synthesis → response.
+
+### Stimuli for Hormone Release
+1. Humoral: blood ion/nutrient changes (e.g., low Ca2+ → PTH).
+2. Neural: nerve fibers stimulate release (e.g., sympathetic → adrenal medulla).
+3. Hormonal: hormones stimulate other endocrine organs (e.g., hypothalamus → anterior pituitary).
+
+### Target Cell Specificity and Half-Lives
+- Target cells must express specific receptors.
+- Activation depends on:
+  1. Blood levels of hormone.
+  2. Receptor number.
+  3. Receptor–hormone affinity.
+- Steroids and thyroid hormones circulate bound to plasma proteins; others circulate free.
+- Water-soluble hormones: short half-lives (minutes). Lipid-soluble: long half-lives (hours to days).
+
+### Pituitary Overview
+- Pituitary (hypophysis): pea-sized gland in sella turcica; connected to hypothalamus by infundibulum.
+- At least 8 major hormones; two lobes:
+  1. Anterior pituitary (adenohypophysis): glandular tissue; synthesizes and secretes hormones.
+  2. Posterior pituitary (neurohypophysis): neural tissue; stores/releases hypothalamic hormones.
+
+### Hypothalamic Control of Anterior Pituitary
+- Functionally connected via hypophyseal portal system (vascular).
+- Parvocellular neurosecretory cells secrete releasing/inhibiting hormones into primary capillary plexus.
+- Hormones travel through hypophyseal portal veins to anterior pituitary to regulate hormone release.
+- Anterior pituitary hormones enter secondary capillary plexus → general circulation.
+
+- Hypothalamic hormones (synthesized and released):
+  1. Growth hormone–releasing/inhibiting factors (GH control).
+  2. Somatostatin: inhibits GH and TSH.
+  3. Thyrotropin-releasing hormone (TRH): stimulates TSH and prolactin.
+  4. Corticotropin-releasing hormone (CRH): stimulates ACTH.
+  5. Gonadotropin-releasing hormone (GnRH): stimulates FSH and LH.
+  6. Prolactin-inhibiting hormone (PIH; dopamine): inhibits prolactin.
+
+- Anterior pituitary hormones:
+  1. Growth hormone (GH): stimulates growth; protein synthesis; fat metabolism. Only hormone here that does not use cAMP as a second messenger.
+  2. Thyroid-stimulating hormone (TSH): stimulates thyroid hormone release.
+  3. Adrenocorticotropic hormone (ACTH): stimulates adrenal cortex corticosteroids.
+  4. Follicle-stimulating hormone (FSH): stimulates gamete production.
+  5. Luteinizing hormone (LH): stimulates ovulation and testosterone.
+  6. Prolactin (PRL): stimulates milk production.
+
+## Lecture 11: Blood
+
+### Composition
+- Hematocrit: percentage of blood volume that is RBCs (~45%).
+- Plasma: ~55% of volume; 90% water; contains >100 solutes.
+- Buffy coat: <1%; leukocytes and platelets.
+- Formed elements: erythrocytes (RBCs), leukocytes (WBCs), platelets.
+- Plasma proteins:
+  1. Albumin: maintains osmotic pressure; transports substances.
+  2. Globulins: transport lipids/fat-soluble vitamins; some are antibodies.
+  3. Fibrinogen: blood clotting.
+- Volume: 5–6 L males; 4–5 L females.
+
+### Blood Plasma
+- Straw-colored, sticky fluid; 90% water.
+- Solutes include nutrients, gases (O2, CO2, N2), hormones, electrolytes (Na+, K+, Ca2+, Cl−, HCO3−), wastes (urea, creatinine, bilirubin), and plasma proteins.
+- Plasma proteins (mostly liver-produced):
+  1. Albumin (60%): osmotic pressure; carrier.
+  2. Globulins (36%): alpha/beta transport lipids/vitamins; gamma are antibodies.
+  3. Fibrinogen (4%): clotting.
+
+### Formed Elements
+- Only WBCs are complete cells; RBCs lack nuclei and organelles.
+
+#### Erythrocytes (RBCs)
+- Sacks of hemoglobin (Hb) transporting O2 and CO2.
+- Biconcave; huge surface area; no mitochondria; anaerobic ATP.
+- ~97% hemoglobin (not counting water).
+- ~84% of all body cells are RBCs.
+- Half of the blood’s volume is RBCs.
+
+##### Erythrocyte Function
+- Respiratory gas transport.
+- Hemoglobin binds O2 reversibly; each Hb has 4 heme O2-binding groups.
+- Each RBC ~250 million Hb; ~1 billion O2 molecules per RBC.
+- O2 loading (lungs): oxyhemoglobin (ruby red).
+- O2 unloading (tissues): deoxyhemoglobin (dark red).
+- Respiration involves CO2 removal as well as O2 delivery.
+- Carbaminohemoglobin: CO2 binds globin (not heme); ~20% of blood CO2.
+
+##### Hematopoiesis
+- Blood cell formation in red bone marrow (myeloid tissue of reticular CT and sinusoids).
+- Hemocytoblasts (hematopoietic stem cells) give rise to all formed elements.
+- Hormones/GFs drive lineage commitment.
+- Fenestrated capillaries allow formed elements to enter blood; sinusoids are leaky capillaries for cell entry.
+- Fenestrations vs sinusoids: small pores vs larger, more permeable channels.
+
+##### Erythropoiesis Stages (~15 days)
+1. Hematopoietic stem cell (hemocytoblast) → myeloid stem cell.
+2. Myeloid stem cell → proerythroblast.
+3. Proerythroblast → basophilic erythroblast.
+4. Basophilic erythroblast: ribosome synthesis (blue).
+5. Polychromatic erythroblast: Hb synthesis; iron accumulates (pink/blue).
+6. Orthochromatic erythroblast: filled with Hb; organelles ejected; nucleus shrinks/ejected.
+7. Reticulocyte: some ribosomes; enters blood; matures in ~2 days.
+8. Mature erythrocyte: biconcave; no nucleus/organelles; Hb-filled.
+- Mnemonic: “Happy My Pro Basophilic Polka Or Red.”
+
+##### Regulation by Erythropoietin (EPO)
+- EPO stimulates erythropoiesis; basal levels always present.
+- Released by kidneys (some liver) in response to hypoxia.
+- Accelerates maturation of erythroid progenitors.
+- Testosterone increases EPO → higher male RBC counts.
+
+##### Requirements
+- Nutrients: amino acids, lipids, carbohydrates.
+- Iron: dietary; stored as ferritin/hemosiderin; transported by transferrin.
+- Vitamin B12 and folic acid: DNA synthesis for rapidly dividing cells.
+
+##### Lifespan and Fate
+- Lifespan: 100–120 days; old RBCs fragile; Hb degrades.
+- Macrophages (spleen) engulf dying RBCs.
+- Heme, iron, and globin separated:
+  - Iron stored for reuse.
+  - Heme → bilirubin → bile → intestines.
+  - Globin → amino acids.
+
+##### Disorders
+- Anemia: decreased O2-carrying capacity (low RBC or Hb).
+  - Hemorrhagic, chronic hemorrhagic, iron-deficiency, pernicious (intrinsic factor/B12), renal (low EPO), aplastic (marrow destruction), hemolytic (RBC lysis), thalassemias (globin defects), sickle-cell (HbS).
+- Polycythemia: excess RBCs; increased viscosity.
+  - Primary (vera): marrow cancer.
+  - Secondary: low O2 (high altitude) or increased EPO.
+  - Blood doping: increases hematocrit; dangerous (viscosity).
+
+#### Platelets (Thrombocytes)
+- Megakaryocytes fragment into platelets.
+- Platelets: cell fragments with serotonin, Ca2+, enzymes, ADP, PDGF.
+- Normal count: 150,000–400,000/µl.
+- Function: temporary plug at vessel breaks; circulate until activated.
+- Thrombopoietin (TPO): regulates production.
+- Stage IV megakaryocyte sends projections into sinusoids; projections rupture, releasing platelets.
+
+## Lecture 12: Blood Part 2
+
+### Hemostasis
+Fast series of reactions to stop bleeding:
+- Vascular spasm: vasoconstriction; triggered by injury, chemicals, and pain reflexes; effective in small vessels.
+- Platelet plug formation: platelets stick to exposed collagen; swell, become sticky, release messengers; positive feedback recruits more platelets.
+- Coagulation: reinforces plug with fibrin; blood becomes gel; clotting factors (I–XIII); three phases:
+  1. Two pathways to prothrombin activator:
+     - Intrinsic: factors in blood; triggered by negatively charged surfaces (activated platelets, collagen); slower.
+     - Extrinsic: factors outside blood; triggered by tissue factor (TF; factor III); faster.
+     - Both end with activation of factor X (“X marks the spot”).
+  2. Pathway to thrombin: prothrombin activator converts prothrombin (II) to thrombin.
+  3. Common pathway to fibrin: thrombin converts fibrinogen (I) to fibrin; fibrin forms mesh; thrombin activates factor XIII to cross-link fibrin and strengthen the clot.
+
+- Von Willebrand factor (vWF): made by megakaryocytes and endothelial cells; globular multimers bind exposed collagen in damaged vessels.
+
+### Clot Retraction and Fibrinolysis
+- Retraction:
+  1. Clot stabilizes; plasminogen trapped.
+  2. Platelet actin/myosin contract; pull on fibrin; clot shrinks.
+  3. Serum squeezed out; vessel edges drawn together; PDGF stimulates repair.
+- Fibrinolysis:
+  4. tPA converts plasminogen to plasmin.
+  5. Plasmin digests fibrin; dissolves clot.
+  6. Clot fragments are phagocytized.
+
+### Limiting Clot Growth and Formation
+- Swift removal/dilution of clotting factors.
+- Inhibition of activated factors.
+- Thrombin restricted to clot by fibrin; antithrombin III inactivates unbound thrombin; heparin enhances antithrombin III.
+- Smooth endothelium prevents platelet adhesion; endothelium secretes antithrombotic substances (nitric oxide, prostacyclin).
+- Vitamin E quinone: anticoagulant interfering with vitamin K.
+
+### Disorders of Hemostasis
+- Thromboembolic:
+  - Thrombus: clot in unbroken vessel; blocks flow; tissue death.
+  - Embolus: free-floating thrombus; may clog critical vessels (brain, lungs).
+  - Pulmonary embolism: impairs oxygenation; treat with anticoagulants (aspirin, heparin, warfarin).
+- Bleeding:
+  - Thrombocytopenia: low platelets; petechiae; marrow suppression/destruction.
+  - Impaired liver function: low procoagulants (vit K deficiency, hepatitis, cirrhosis); impaired bile → impaired vitamin K absorption.
+  - Hemophilias: hereditary factor deficiencies (A: VIII, B: IX, C: XI); treat with plasma or factor replacement.
+- DIC: disseminated intravascular coagulation; widespread clotting and severe bleeding; occurs in pregnancy, septicemia, incompatible transfusions.
+
+### Blood Transfusions and Groups
+- Transfusions needed when blood loss exceeds compensation.
+- Whole blood for rapid/substantial loss (>30% volume); otherwise PRBCs.
+- RBC membranes carry unique glycoprotein antigens; mismatched blood triggers agglutination and destruction.
+- ABO and Rh cause vigorous reactions.
+
+- ABO:
+  - Type A: A antigens; anti-B antibodies.
+  - Type B: B antigens; anti-A antibodies.
+  - Type AB: A and B antigens; no antibodies; universal recipient.
+  - Type O: no antigens; anti-A and anti-B; universal donor.
+- Rh:
+  - 52 factors (C, D, E, etc.); Rh+ has D antigen; ~85% in U.S.
+  - Anti-Rh antibodies not spontaneous in Rh− individuals.
+
+- Erythroblastosis fetalis:
+  - Rh− mother with Rh+ fetus; sensitization at first delivery; subsequent Rh+ fetuses at risk from maternal anti-Rh antibodies.
+  - Prevent with RhoGAM (anti-Rh antibodies) to prevent sensitization.
+
+### Diagnostic Blood Tests
+- Low hematocrit: anemia, hemorrhage, deficiency.
+- Blood glucose: diabetes mellitus.
+- Blood smear: RBC shape/size; infections (e.g., malaria).
+- Differential WBC: infections, inflammation, allergies.
+- PT and platelet counts: clotting disorders.
+- CMP: metabolism; kidney/liver function; electrolytes; acid–base; glucose; proteins.
+- CBC: hematocrit, hemoglobin, RBC, WBC, platelets.
+
+## Lecture 13: The Heart
+
+### Overview
+- The heart is a double pump:
+  1. Pulmonary circuit: right heart → lungs (oxygenation, CO2 removal).
+  2. Systemic circuit: left heart → body (deliver O2/nutrients; remove wastes).
+- Weighs <1 pound; in mediastinum; ~fist-sized; superior surface of diaphragm; left of midline.
+
+### Layers of the Heart
+- Pericardium: double-walled sac.
+  - Fibrous pericardium: tough, dense CT; protects, anchors, prevents overfilling.
+  - Serous pericardium: parietal (lines fibrous) and visceral (epicardium); pericardial cavity with serous fluid reduces friction.
+- Myocardium: cardiac muscle; responsible for contraction; fibrous skeleton anchors fibers, supports great vessels/valves, limits spread of APs.
+- Endocardium: innermost; continuous with endothelium; lines chambers; covers valves.
+
+![alt text](heart_diagram.png "Diagram of the heart")
+
+### Vessels and Flow Direction
+- Terms refer to flow direction, not O2 content:
+  - Arteries carry blood away from heart.
+  - Veins carry blood toward heart.
+- Pulmonary arteries: deoxygenated blood to lungs.
+- Pulmonary veins: oxygenated blood to left atrium.
+
+![alt text](blood_flow_directions.png "Diagram of the heart")
+
+### Heart Valves
+- Ensure one-way flow.
+- Atrioventricular (AV) valves: between atria and ventricles; prevent backflow into atria.
+  - Tricuspid: right AV; three cusps.
+  - Bicuspid (mitral): left AV; two cusps.
+  - Chordae tendineae anchor cusps to papillary muscles; prevent eversion.
+- Semilunar (SL) valves: between ventricles and arteries; prevent backflow into ventricles.
+  - Aortic: left ventricle → aorta.
+  - Pulmonary: right ventricle → pulmonary trunk.
+
+#### AV Opening
+1. Blood returning fills atria, pressing against AV valves; AV valves open.
+2. As ventricles fill, AV flaps hang into ventricles.
+3. Atria contract, forcing additional blood into ventricles.
+
+#### AV Closing
+- Prevent backflow from ventricles to atria during ventricular contraction.
+1. Ventricles contract; blood forces AV cusps closed.
+2. Papillary muscles contract; chordae tighten; prevent eversion.
+
+#### SL Opening and Closing
+- Opening: ventricular pressure rises → SL valves open → ejection.
+- Closing: ventricles relax; arterial backflow fills SL cusps → valves close.
+
+### Heart Sounds and Valve Integrity
+- Lub–dub from valve closures:
+  - Lub: AV close → start of systole.
+  - Dub: SL close → start of ventricular diastole.
+- Clicking may indicate stenosis (stenotic = narrowed/stiff).
+- Incompetent valve: fails to close completely → backflow; increased workload.
+- Valvular stenosis: stiff flaps; narrowed opening; increased workload.
+
+### Circuits
+- Pulmonary:
+  - Deoxygenated blood → right atrium (SVC/IVC/coronary sinus) → tricuspid → right ventricle → pulmonary valve → pulmonary trunk → pulmonary arteries → lungs.
+- Systemic:
+  - Oxygenated blood → left atrium (pulmonary veins) → mitral → left ventricle → aortic valve → aorta → systemic arteries.
+
+### Coronary Circulation
+- Functional blood supply to myocardium; delivered when heart is relaxed.
+- Left coronary: anterior interventricular (septum/anterior walls) and circumflex (left atrium/ventricle).
+- Right coronary: right marginal (lateral right side) and posterior interventricular (posterior walls).
+- Anastomoses provide alternate routes but may not compensate for occlusion.
+- Cardiac veins collect deoxygenated blood; great cardiac vein (anterior interventricular sulcus); coronary sinus receives veins and empties into right atrium.
+
+### Cardiac Muscle
+- Cardiac muscle cells are striated, short, fat, branched, and interconnected.
+- One central nucleus (sometimes two).
+- Numerous large mitochondria (25-35% of cell volume) that resist fatigue.
+
+![alt text](cardiac_vs_skeletal_muscle.png "table comparing cardiac and skeletal muscle")
+
+### Microscopic Anatomy
+- Intercalated discs: junctions between cardiac cells; contain desmosomes (prevent cells from separating during contraction) and gap junctions (allow ions to pass from cell to cell; electrically couple adjacent cells; allow heart to be a functional syncytium).
+- Gap junctions: allow ions to pass from cell to cell; electrically couple adjacent cells; allow heart to be a functional syncytium.
+- Desmosomes: prevent cells from separating during contraction.
+
+There are 2 types of myocytes:
+
+- Contractile cells: 99% of cardiac muscle cells; responsible for contraction that pumps blood.
+- Pacemaker cells: 1% of cardiac muscle cells; noncontractile cells that spontaneously depolarize; initiate depolarization of entire heart; do not need nervous system stimulation.
+
+Electircal events of the heart
+
+- Heart depolarizes and contracts without nervous system stimulation.
+- Inherent rhythmic electrical activity is due to gap junctions and intrinsic cardiac conduction system.
+- Intrinsic cardiac conduction system: network of noncontractile (autorhythmic) cells that initiate and distribute impulses to coordinate depolarization and contraction of heart.
+- Pacemaker cells are concentrated in the SA node. Signal goes from SA node to AV. Small pause at the AV node, allowing the atria to contract a fraction of a second before the ventricles. Then the signal goes to the bundle of His, which splits into the right and left bundle branches, which go to the Purkinje fibers that spread throughout the ventricles.
+
+Action potential is initiated by pacemaker cells
+
+1. Pacemaker potential: slow depolarization due to both opening of Na+ channels and closing of K+ channels. At threshold, Ca2+ channels open, allowing huge influx of Ca2+, leading to rising phase of action potential.
+2. Depolarization: due to Ca2+ influx through Ca2+ channels. Reverses membrane potential from -40 mV to a positive value.
+3. Repolarization: due to Ca2+ channels closing and K+ channels opening. Allows K+ efflux, which brings membrane potential back to its most negative voltage.
+
+## Lecture 14: The Heart, Part 2
+
+### Extrinsic Innervation
+- Autonomic modulation via medullary cardiac centers.
+- Vagus nerve (parasympathetic): decreases HR; cutting it increases HR by ~25 bpm.
+- Sympathetic nerves: increase HR and contractility.
+- Vagal tone maintains resting HR ~75 bpm.
+
+### Electrocardiography
+- ECG/EKG: composite of all APs from nodal/contractile cells; body-surface electrodes measure voltage differences.
+- P wave: SA node/atrial depolarization.
+- QRS complex: ventricular depolarization; atrial repolarization masked.
+- T wave: ventricular repolarization.
+- P–R interval: beginning atrial excitation → beginning ventricular excitation.
+- S–T segment: entire ventricular myocardium depolarized.
+- Q–T interval: beginning ventricular depolarization → ventricular repolarization.
+
+![alt text](ecg_image.png "ECG diagram")
+
+#### ECG Abnormalities
+- Junctional rhythm: SA nonfunctional; AV paces 40–60 bpm; absent P waves.
+- Second-degree block: some P not conducted; more P than QRS.
+- Ventricular fibrillation: chaotic; acute MI/electrical shock; treat with defibrillation.
+- Elevated/depressed S–T: may indicate myocardial ischemia (reduced coronary blood flow).
+
+### Mechanics of Heart Function
+- Systole: contraction. Diastole: relaxation.
+- Cardiac cycle: one heartbeat (atrial + ventricular systole/diastole).
+
+#### Cardiac Cycle Steps
+1. Ventricular filling (mid-to-late diastole):
+   - AV valves open; ~80% passive filling.
+   - Atrial systole delivers remaining ~20%.
+   - EDV: ~120 ml.
+2. Ventricular systole:
+   - Atria relax; ventricles contract (isovolumetric contraction).
+   - Rising pressure closes AV valves.
+   - When ventricular pressure > arterial, SL valves open → ejection.
+   - SV: ~70 ml.
+3. Isovolumetric relaxation (early diastole):
+   - Ventricles relax; atria relaxed and filling.
+   - Backflow closes SL valves.
+   - AV valves open; cycle repeats.
+- Note: Isovolumetric contraction is the split second before ejection when ventricles contract with all valves closed; then ejection begins when SL valves open.
+
+![alt text](heart_cycle_diagram.jpg "Heart cycle diagram")
+![alt text](heart_cycle_diagram_2.jpg "Heart cycle diagram")
+
+### Regulation of Heart Pumping
+- Cardiac output (CO) = HR × SV.
+  - HR ~75 bpm; SV ~70 ml/beat → CO ~5.25 L/min.
+- Cardiac reserve: difference between resting and maximal CO (4–5×; up to 7× in trained athletes).
+
+#### Stroke Volume
+- SV = EDV − ESV
+  - EDV ~120 ml; ESV ~50 ml; average SV ~70 ml/beat.
+
+- Three factors:
+  1. Preload: stretch before contraction; increased preload increases SV (Frank–Starling). Venous return (increased by slow HR and exercise) increases EDV.
+  2. Contractility: strength at a given length; increased contractility decreases ESV → increases SV.
+     - Positive inotropes: increased Ca2+ influx, sympathetic stimulation, hormones (epinephrine, thyroxine, glucagon). For this course, remember epinephrine.
+     - Negative inotropes: acidosis, high extracellular K+, Ca2+ channel blockers.
+  3. Afterload: pressure to overcome to eject blood; increased afterload increases ESV → decreases SV (e.g., hypertension, atherosclerosis).
+
+#### Heart Rate Influences
+1. Autonomic:
+   - Sympathetic: increases HR (NE → β1 receptors → faster pacemaker firing).
+   - Parasympathetic: decreases HR (ACh opens K+ channels → hyperpolarization).
+2. Chemicals:
+   - Hormones: epinephrine increases HR; thyroxine increases HR and enhances NE/E effects.
+   - Ions: K+ and Ca2+ imbalances disrupt function.
+3. Other:
+   - Age (fetal fastest), gender (females faster), fitness (athletes lower resting HR), temperature (heat ↑ HR; cold ↓ HR).
+
+#### Rate Abnormalities and Failure
+- Tachycardia: >100 bpm; may lead to fibrillation.
+- Bradycardia: <60 bpm; may cause inadequate circulation; can be normal in endurance training.
+- Defects in CO can lead to congestive heart failure (CHF).
